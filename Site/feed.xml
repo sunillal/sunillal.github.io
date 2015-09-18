@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:0CC399FC-98DE-4E2F-BF4D-A55834790B53</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-05-18T22:35:29+12:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:272FFDC9-E227-41A9-B7F6-7E9719699915</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">272FFDC9-E227-41A9-B7F6-7E9719699915</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2014-05-18T22:35:29.001+12:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3E805B6B-27D0-448F-B814-BE973D115C8C</id>
+  <title>Research</title>
+  <title xmlns="urn:iweb:">Research</title>
+  <in-navbar xmlns="urn:iweb:">3E805B6B-27D0-448F-B814-BE973D115C8C</in-navbar>
+  <link rel="alternate" href="Research.html"/>
+  <updated>2014-05-18T22:35:29.002+12:00</updated>
+  <content>Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:BB750C49-BA6D-4CC0-9972-8EBA65B2D62F</id>
+  <title>Teaching</title>
+  <title xmlns="urn:iweb:">Teaching</title>
+  <in-navbar xmlns="urn:iweb:">BB750C49-BA6D-4CC0-9972-8EBA65B2D62F</in-navbar>
+  <link rel="alternate" href="Teaching.html"/>
+  <updated>2014-05-18T22:35:29.003+12:00</updated>
+  <content>Teaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7A0E5BF3-174A-4926-86FB-6C220CABDA42</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">7A0E5BF3-174A-4926-86FB-6C220CABDA42</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2014-05-18T22:35:29.004+12:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FA44884B-4E9A-4566-B86F-691F4B783309</id>
+  <title>Personal</title>
+  <title xmlns="urn:iweb:">Personal</title>
+  <in-navbar xmlns="urn:iweb:">FA44884B-4E9A-4566-B86F-691F4B783309</in-navbar>
+  <link rel="alternate" href="Personal.html"/>
+  <updated>2014-05-18T22:35:29.005+12:00</updated>
+  <content>Personal</content>
+ </entry>
+</feed>
